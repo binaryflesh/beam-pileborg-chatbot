@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.5
 from chatty import create
 import config, time
 import functions as fun

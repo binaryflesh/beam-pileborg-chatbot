@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.5
 from .connection import Connection
 
 
